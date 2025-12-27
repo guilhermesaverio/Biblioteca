@@ -1,0 +1,2 @@
+# Biblioteca
+Projeto prático desenvolvido de uma Biblioteca em um curso de SQL do básico ao avançado, utilizando SQL Server. Foram aplicados conceitos de criação e modelagem de bancos de dados, manipulação de dados com INSERT, UPDATE e DELETE, além de consultas SQL usando SELECT, WHERE, ORDER BY, funções de agregação e GROUP BY.  O projeto também inclui consultas relacionais com JOIN, além da criação de procedimentos armazenados (Stored Procedures) e gatilhos (Triggers), reforçando a aplicação de regras de negócio e boas práticas em banco de dados.
