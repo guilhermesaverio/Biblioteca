@@ -7,7 +7,7 @@
  ALTER COLUMN Edição TINYINT;
 
  --Adicionar chave primaria
- ALTER TABLE NOmeTabela
+ ALTER TABLE NomeTabela
  ADD PRIMARY KEY (Coluna);
 
  --Excluir uma constraint de uma coluna
